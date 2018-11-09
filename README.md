@@ -1,8 +1,10 @@
-# [consultant](https://github.com/eserozvataf/consultant)
+# 📋 [consultant](https://github.com/eserozvataf/consultant)
 
+[![build status][build-image]][build-url]
 [![npm version][npm-image]][npm-url]
 [![npm download][download-image]][npm-url]
 [![dependencies][dep-image]][dep-url]
+[![coverage status][coverage-image]][coverage-url]
 [![license][license-image]][license-url]
 
 
@@ -147,10 +149,14 @@ It is publicly open for any contribution. Bugfixes, new features and extra modul
 [Visit my patreon profile at patreon.com/eserozvataf](https://www.patreon.com/eserozvataf)
 
 
+[build-image]: https://travis-ci.org/eserozvataf/consultant.svg?branch=master
+[build-url]: https://travis-ci.org/eserozvataf/consultant
 [npm-image]: https://img.shields.io/npm/v/consultant.svg?style=flat-square
 [npm-url]: https://www.npmjs.com/package/consultant
 [download-image]: https://img.shields.io/npm/dt/consultant.svg?style=flat-square
 [dep-image]: https://img.shields.io/david/eserozvataf/consultant.svg?style=flat-square
 [dep-url]: https://github.com/eserozvataf/consultant
+[coverage-image]: https://coveralls.io/repos/eserozvataf/consultant/badge.svg?branch=master
+[coverage-url]: https://coveralls.io/r/eserozvataf/consultant?branch=master
 [license-image]: https://img.shields.io/npm/l/consultant.svg?style=flat-square
 [license-url]: https://github.com/eserozvataf/consultant/blob/master/LICENSE
