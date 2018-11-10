@@ -156,7 +156,7 @@ It is publicly open for any contribution. Bugfixes, new features and extra modul
 [download-image]: https://img.shields.io/npm/dt/consultant.svg?style=flat-square
 [dep-image]: https://img.shields.io/david/eserozvataf/consultant.svg?style=flat-square
 [dep-url]: https://github.com/eserozvataf/consultant
-[coverage-image]: https://coveralls.io/repos/eserozvataf/consultant/badge.svg?branch=master
-[coverage-url]: https://coveralls.io/r/eserozvataf/consultant?branch=master
+[coverage-image]: https://codecov.io/gh/eserozvataf/consultant/branch/master/graph/badge.svg
+[coverage-url]: https://codecov.io/gh/eserozvataf/consultant
 [license-image]: https://img.shields.io/npm/l/consultant.svg?style=flat-square
 [license-url]: https://github.com/eserozvataf/consultant/blob/master/LICENSE
