@@ -60,7 +60,7 @@
     "inquirer": "^6.2.0",
     "ponyfills": "^0.9.0",
     "tslib": "^1.9.3",
-    "yargs-parser": "^11.0.0"
+    "yargs-parser": "^13.1.2"
   },
   "devDependencies": {
     "@types/jest": "^23.3.9",
